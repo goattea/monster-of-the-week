@@ -1,0 +1,17 @@
+19 Mar 2019 - 
+
+The Monster of the Week Revised Corrected.pdf file as well as the playbooks, mystery work sheet, and keeper reference sheet found here have been updated to address some of the errors in the earlier printings. In short, those errors were:
+
+- Not all playbooks had a "Get one Luck point back" option for their Advanced Improvements. Now they do.
+
+- Reference to the Google Plus "roadhouse" community have been removed due to that service going away shortly (or already, depending on when you read this).
+
+- Crooked playbook's submachinegun and assault rifle weapons now have "area" tags instead of "auto". 
+
+- Example on page 100 indicated 3 hold gained from an Investigate a Mystery result. That should have been 2. Fixed.
+
+- Throughout the book and some of the sheets the positions of "Dusk" and "Sunset" were in the wrong order. They're now in an order that lines up with how those actually work in this reality. (Dusk follows Sunset.)
+
+- One of the statblocks in the example mystery had a "b" instead of a box and the first letter of the names of the cyber-primates missing. Fixed that.
+
+The epub and mobi versions have not been updated with these changes. No changes were necessary for the hunter reference sheets.
